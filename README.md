@@ -12,7 +12,15 @@ The project comes as a single executable (`chip8.exe`) and is ready to run. You 
 * Adjustable emulation speed (Slow, Normal, Fast, Fastest)
 * Pause/Resume and Reset functionality
 * Keyboard mapping compatible with CHIP-8 keypad
+* Fully functional on-screen controls
+* Custom button styling
+* Custom screen filters available
 * Pre-built executable included
+  <img width="618" height="419" alt="image" src="https://github.com/user-attachments/assets/5216552f-323d-482a-a203-b7a539ab95b2" />
+  <img width="623" height="416" alt="image" src="https://github.com/user-attachments/assets/c213be87-2e36-4aff-ae8c-d278e7ffc7df" />
+
+  
+
 
 ---
 
